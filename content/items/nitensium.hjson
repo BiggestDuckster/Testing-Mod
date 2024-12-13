@@ -1,0 +1,9 @@
+    name: "Nitensium"
+    hardness: 3
+    cost: 2
+    color: "5b6ee1" // Hex color code for visualization
+    flammability: 0
+    explosiveness: 0.5
+    radioactivity: 0.0
+    charge: 1
+    description: "Cool downed version of niten gas, less hot and more dense."

@@ -1,0 +1,9 @@
+    name: "Ragnarite"
+    hardness: 6
+    cost: 6
+    color: "9c3f13" // Hex color code for visualization
+    flammability: 0
+    explosiveness: 1.5
+    radioactivity: 1
+    charge: 0.5
+    description: "Highly unstable material formed from thorium and blast compound. Used in over-powered turrets as ammunition."

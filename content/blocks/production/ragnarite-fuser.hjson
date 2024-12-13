@@ -1,0 +1,45 @@
+{
+	"type": "GenericCrafter",
+	"name": "Ragnarite Fuser",
+	"description": "Fuses thorium and blast compound into ragnarite. Constantly needs cooling.",
+	"size": 4,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame",
+		"prefix": "-top",
+        "flameColor": "ffd675FF"
+      }
+    ]
+  },
+	"hasItems": true,
+	"hasLiquids": true,
+	"hasPower": true,
+	"liquidCapacity": 10,
+	"itemCapacity": 10,
+	"outputItem": "ragnarite/1",
+	"updateEffect": "explosion",
+	"craftEffect": ["shockwave", "explosion"],
+	"consumes": {
+		"power": 5,
+		"liquids": [
+		"cryofluid/0.3333333333333333333",
+		],
+		"items": [
+		"thorium/1",	
+		"blast-compound/1"
+		]
+	},
+	"requirements": [
+	"lead/300",
+	"titanium/500",
+	"plastanium/120",
+	"surge-alloy/100"
+	],
+	"category": "crafting",
+	"researcg": null
+}

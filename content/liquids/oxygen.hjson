@@ -1,0 +1,10 @@
+{
+  "name": Oxygen,
+  "description": "Used as a combustion agent",
+  "temperature": 0,
+  "viscosity": 0.6,
+  "gas": true,
+  "lightColor": "#baedffFF",
+  "color": "#baedffFF",
+  "research": "oxygen"
+}
