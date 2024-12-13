@@ -12,8 +12,8 @@
   "recoil": 1, // Recoil distance when firing.
   "shake": 0, // Camera shake when firing.
   "inaccuracy": 1.5,
+  "ammoUseEffect": "casing2",
   "ammoEjectBack": 1,
-  "ammoEject": true,
   
   // Drawer
   "drawer": {
